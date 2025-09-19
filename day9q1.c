@@ -1,4 +1,4 @@
-Q17: Write a program to find the roots of a quadratic equation and categorize them.
+//Q17: Write a program to find the roots of a quadratic equation and categorize them.
 
 /*
 Sample Test Cases:
@@ -42,4 +42,5 @@ void main(){
     else{
         printf("Roots are imaginary.");
     }
+
 }
